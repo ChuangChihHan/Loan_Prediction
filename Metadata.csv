@@ -1,0 +1,33 @@
+Variable,,Definition
+X1,interest_rate,Interest Rate on the loan
+X2,loan_id,A unique id for the loan.
+X3,borrower_id,A unique id assigned for the borrower.
+X4,loan_requested,Loan amount requested
+X5,loan_funded,Loan amount funded
+X6,investor_funded,Investor-funded portion of loan
+X7,payment_numbers,Number of payments (36 or 60)
+X8,loan_grade,Loan grade
+X9,loan_subgrade,Loan subgrade
+X10,job_title,Employer or job title (self-filled)
+X11,years_employed,Number of years employed (0 to 10; 10 = 10 or more)
+X12,home_ownership,"Home ownership status: RENT, OWN, MORTGAGE, OTHER."
+X13,annual_income,Annual income of borrower
+X14,income_verification,"Income verified, not verified, or income source was verified"
+X15,issued_date,Date loan was issued
+X16,loan_reason,Reason for loan provided by borrower
+X17,loan_category,"Loan category, as provided by borrower"
+X18,loan_title,"Loan title, as provided by borrower"
+X19,zip_code,First 3 numbers of zip code
+X20,state,State of borrower
+X21,debt_payment_ratio,"A ratio calculated using the borrower‰Ûªs total monthly debt payments on the total debt obligations, excluding mortgage and the requested loan, divided by the borrower‰Ûªs self-reported monthly income."
+X22,delinquency_frequency,The number of 30+ days past-due incidences of delinquency in the borrower's credit file for the past 2 years
+X23,credit_earliest_date,Date the borrower's earliest reported credit line was opened
+X24,creditor_inquiries,Number of inquiries by creditors during the past 6 months.
+X25,borrower_delinquency_recency,Number of months since the borrower's last delinquency.
+X26,public_record_recency,Number of months since the last public record.
+X27,open_credit_line_count,Number of open credit lines in the borrower's credit file.
+X28,derogatory_public_record_count,Number of derogatory public records
+X29,total_credit,Total credit revolving balance
+X30,credit_utilization_rate,"Revolving line utilization rate, or the amount of credit the borrower is using relative to all available revolving credit."
+X31,total_credit_line_count,The total number of credit lines currently in the borrower's credit file
+X32,initial_status,"The initial listing status of the loan. Possible values are ‰ÛÒ W, F"
