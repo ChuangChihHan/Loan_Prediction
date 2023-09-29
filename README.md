@@ -1,2 +1,2 @@
 # Loan_Prediction
-Predict the interest rate of the load based on 32 factors
+Predict the interest rate of the assigned loan based on 32 factors
